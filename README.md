@@ -12,8 +12,16 @@ Although I was responsible for the design of most of the applications, I want to
 
 ## 🛠 projects
 
-<a href=""><img src="" height="150" width="240" /></a>
-<a href=""><img src="" height="150" width="240" /></a>
-<a href=""><img src="" height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/projeto_portifolio.png" height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/acai.png" height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/agenda.png" height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/boracodar.png " height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/cartao.png" height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/dashboard.png" height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/plantas.png" height="150" width="240" /></a>
+<a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/task.png" height="150" width="240" /></a>
+
+<!-- <a href=""><img src="https://github.com/dirigindo-meu-fusca/my_figma_projects/blob/main/imgs/projects/" height="150" width="240" /></a> -->
 
 ##
+
